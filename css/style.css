@@ -1099,15 +1099,63 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .progress-bar.color-6 {
-  background: #4054b2;
+  background: #7d7d80;
 }
 
 .progress-bar.color-6:after {
-  background: #4054b2;
+  background: #7d7d80;
 }
 
 .progress-bar.color-6 span {
-  color: #4054b2;
+  color: #7d7d80;
+}
+
+.progress-bar.color-7 {
+  background: #7cbdf3;
+}
+
+.progress-bar.color-7:after {
+  background: #7cbdf3;
+}
+
+.progress-bar.color-7 span {
+  color: #7cbdf3;
+}
+
+.progress-bar.color-8 {
+  background: #ec2789;
+}
+
+.progress-bar.color-8:after {
+  background: #ec2789;
+}
+
+.progress-bar.color-8 span {
+  color: #ec2789;
+}
+
+.progress-bar.color-9 {
+  background: #e06016;
+}
+
+.progress-bar.color-9:after {
+  background: #e06016;
+}
+
+.progress-bar.color-9 span {
+  color: #e06016;
+}
+
+.progress-bar.color-10 {
+  background: #0523aa;
+}
+
+.progress-bar.color-10:after {
+  background: #0523aa;
+}
+
+.progress-bar.color-10 span {
+  color: #0523aa;
 }
 
 .colorlib-feature {
